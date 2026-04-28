@@ -1,0 +1,23 @@
+{
+  "dayana": {
+    "nombre": "dayana",
+    "contraseña_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "capital_inicial": 500000.0,
+    "fecha_creacion": "2026-04-27T23:06:15.263188",
+    "historial_inversiones": []
+  },
+  "Ivan": {
+    "nombre": "Ivan",
+    "contraseña_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "capital_inicial": 200000.0,
+    "fecha_creacion": "2026-04-27T23:07:54.280551",
+    "historial_inversiones": []
+  },
+  "mami": {
+    "nombre": "mami",
+    "contraseña_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "capital_inicial": 1.0,
+    "fecha_creacion": "2026-04-28T00:15:31.697507",
+    "historial_inversiones": []
+  }
+}
